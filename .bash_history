@@ -119,3 +119,37 @@ cd ~/.ssh
 ls
 cat id_rsa.pub
 ssh-keygen -o -t rsa -C "eliantamayo6@gmail.com"
+ssh-keygen -t rsa -b 4096 -C "eliantamayo6@gmail.com"
+cat nc.pub
+clear
+echo "# ProyectoDemoCursoPrework" >> README.md
+ls
+clear
+echo "# proyectoCursoDemoPrework-" >> README.md
+ls
+cd proyectoDemoCursoPrework}
+cd proyectoDemoCursoPrework
+ls
+git init
+git add.
+
+git commit -m "first commit"
+git config --global user.name "eliane"
+git config --global user.email "eliantamayo6@gmail.com"
+git config --global user.name "elian"
+git config --edit --global
+git commit -m "first commit"
+git remote add origin https://github.com/Elianchis/proyectoCursoDemoPrework-.git
+git push -u origin main
+git branch -M main
+git remote add origin https://github.com/Elianchis/proyectoCursoDemoPrework-.git
+git push -u origin main
+git push -u origin master
+echo "# ProyectoDemoCursoPrework" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Elianchis/ProyectoDemoCursoPrework.git
+git push -u origin main
+git push -u -origin main
